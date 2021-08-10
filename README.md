@@ -9,7 +9,7 @@ This is the code repository for [Getting Started with Streamlit for Data Science
 ## What is this book about?
 Streamlit shortens the development time for the creation of data-focused web applications, allowing data scientists to create web app prototypes using Python in hours instead of days. Getting Started with Streamlit for Data Science takes a hands-on approach to helping you learn the tips and tricks that will have you up and running with Streamlit in no time.
 
-This book covers the following exciting features: <First 5 What you'll learn points>
+This book covers the following exciting features: 
 * Set up your first development environment and create a basic Streamlit app from scratch
 * Explore methods for uploading, downloading, and manipulating data in Streamlit apps
 * Create dynamic visualizations in Streamlit using built-in and imported Python libraries
