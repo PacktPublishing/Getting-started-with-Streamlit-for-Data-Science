@@ -41,9 +41,9 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        |
 | -------- | ------------------------------------| -----------------------------------|
-| 1        | Python 3+                           | Windows, Mac OS X, and Linux (Any) |
-| 2        | Streamlit 0.81+                     | Windows, Mac OS X, and Linux (Any) |
-| 3        | GitHub                              | Windows, Mac OS X, and Linux (Any) |
+| 1 - 11   | Python 3+                           | Windows, Mac OS X, and Linux (Any) |
+| 1 - 11   | Streamlit 0.81+                     | Windows, Mac OS X, and Linux (Any) |
+| 1 - 11   | GitHub                              | Windows, Mac OS X, and Linux (Any) |
 
 
 
