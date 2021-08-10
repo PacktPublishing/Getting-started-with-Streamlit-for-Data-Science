@@ -60,5 +60,3 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 is a data scientist at Facebook, working on community integrity. Before this gig, his focus was on helping bolster the state of US elections for the nonprofit Protect Democracy. He is a data scientist and industrial engineer by training, which he gets to make use of in fun ways such as applying machine learning to local campus elections, creating algorithms to help P&G target Tide Pod users, and finding ways to determine the best ping pong players in friend groups. He is always looking for a new project, a new adventure.
 
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
