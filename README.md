@@ -1,5 +1,7 @@
 # Getting Started with Streamlit for Data Science
 
+This book's repository has moved to: https://github.com/tylerjrichards/Getting-Started-with-Streamlit-for-Data-Science
+
 <a href="https://www.packtpub.com/product/getting-started-with-streamlit-for-data-science/9781800565500?utm_source=github&utm_medium=repository&utm_campaign=978-1-80056-550-0"><img src="https://m.media-amazon.com/images/I/41ezAWgOZdS.jpg" alt="Getting Started with Streamlit for Data Science" height="256px" align="right"></a>
 
 This is the code repository for [Getting Started with Streamlit for Data Science](https://www.packtpub.com/product/getting-started-with-streamlit-for-data-science/9781800565500?utm_source=github&utm_medium=repository&utm_campaign=978-1-80056-550-0), published by Packt.
